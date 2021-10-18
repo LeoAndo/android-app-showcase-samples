@@ -17,4 +17,13 @@ sample for Showcase (Android)
 |<img src="https://github.com/LeoAndo/android-app-showcase-samples/blob/main/MaterialShowcaseViewSample/capture/android.gif" width=320 /> |
 
 
+# Use [ShowCaseView](https://github.com/mreram/ShowCaseView) Sample
+- [Code](https://github.com/LeoAndo/android-app-showcase-samples/tree/main/ShowcaseViewSample)
+- [Base](https://github.com/mreram/ShowCaseView/tree/master/app)
+- Features
+  - [refactor Android X](https://developer.android.com/jetpack/androidx)
+  - [Add Kotlin Version](https://github.com/LeoAndo/android-app-showcase-samples/tree/main/ShowcaseViewSample/app/src/kotlinVersion/java/com/example/basicappsample)
 
+| Pixel 4 OS: 8.0 |
+|:---|
+|<img src="https://github.com/LeoAndo/android-app-showcase-samples/blob/main/ShowcaseViewSample/capture/android.gif" width=320 /> |
